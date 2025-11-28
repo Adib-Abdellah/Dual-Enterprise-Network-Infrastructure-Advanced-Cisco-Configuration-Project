@@ -80,7 +80,7 @@ The interconnection between both enterprises uses **secure OSPF authentication**
 
 ## ▶️ How to Use This Project
 
-1.  [Download the Packet Tracer file](./Dual-Enterprise-20Network-Infrastructure-Advanced-Cisco-Configuration-Project.pkt) file from this repository  
+1.  [Download the Packet Tracer file](./Dual-Enterprise-Network-Infrastructure-Advanced-Cisco-Configuration-Project.pkt) file from this repository  
 2. Open it in **Cisco Packet Tracer**  
 3. Verify the following:  
    - OSPF area adjacency  
