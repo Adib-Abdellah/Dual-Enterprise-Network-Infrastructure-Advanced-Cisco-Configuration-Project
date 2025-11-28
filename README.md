@@ -16,7 +16,7 @@ This project showcases the design, configuration, and deployment of a dual-enter
 🔹 Enterprise A – Core Switches
 
 EA Core 1
-![EA Core 1](./Core EA CORE 1.jpg)
+![EA CORE 1](./EA CORE 1.jpg)
 
 EA Core 2
 ![EA Core 2](./Core EA 2.jpg)
