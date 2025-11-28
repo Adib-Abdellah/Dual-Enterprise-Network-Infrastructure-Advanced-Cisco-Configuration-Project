@@ -5,22 +5,19 @@ This project showcases the design, configuration, and deployment of a dual-enter
 
 🖼️ Network Topology – Full Views
 🔹 Global Topology Overview
-
+![Full Network Topology](./FullView.jpg)
 🔹 Enterprise A – Topology
-
+![Enterprise A Topology](./EA.jpg)
 🔹 Enterprise B – Topology
-
+![Enterprise B Topology](./EB.jpg)
 🔹 Mid Network / Interconnection Area
-
+![Middle Section](./Mid.jpg)
 🧩 Core Switch & Routing Configuration Views
 🔹 Enterprise A – Core Switches
 
 EA Core 1
-![EA CORE 1](./EA CORE 1.jpg)
-
-EA Core 2
-![EA Core 2](./Core EA 2.jpg)
-
+![EA Core 1](./EA CORE 1.jpg)
+![EA Core 2](./EA CORE 2.jpg)
 🔹 Enterprise B – Core Switches
 
 EB Core 1
